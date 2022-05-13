@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SansSerifFLF
+FamilyName:SansSerifFLF
+StyleName:Medium
+FullName:SansSerifFLF
+MenuName:SansSerifFLF
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ARENA MULTIMEDIA\Desktop\DW\Font\Century Gothic Reg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16636
+FileModTime:1268467085
+WeightClass:550
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SansSerifFLF
+NameArray:0,Win,1,SansSerifFLF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ARENA MULTIMEDIA\Desktop\DW\Font\Century Gothic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137568
+FileModTime:1444262400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GillSansMT-UltBd
+FamilyName:Gill Sans MT
+StyleName:Ultra Bold
+FullName:Gill Sans MT Ultra Bold
+MenuName:Gill Sans MT Ultra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ARENA MULTIMEDIA\Desktop\DW\Font\Gill Sans MT Ultra Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40940
+FileModTime:1644012044
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gill Sans MT Ultra Bold
+NameArray:0,Win,1,Gill Sans MT Ultra Bold
+NameArray:0,Win,16,Gill Sans MT
+%EndFont
+
